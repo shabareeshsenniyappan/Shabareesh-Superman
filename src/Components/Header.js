@@ -5,6 +5,7 @@ import sman from '../Images/sman.png'
 
 const Header = () => {
     return (
+        <div class="container">
         <div class="row" style={{backgroundColor:"#f0ad4e",padding:"12px"}}>
             <div class="col"> 
             <img src={sman} alt="Super" width="65px"/>
@@ -14,6 +15,7 @@ const Header = () => {
                 <h1 style={{color:"#e60000"}}>Shabareesh Senniyappan</h1>
             </div>
             
+        </div>
         </div>
     );
 };

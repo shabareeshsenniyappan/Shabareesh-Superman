@@ -24,7 +24,7 @@ class Form extends Component {
                     </div>
 
                     <div class="col-md-sm-4  text-warning  d-flex align-content-center flex-wrap">
-                        <h6>(Skip for anonymous )</h6>
+                        <h6>(Skip to be anonymous)</h6>
                     </div>
 
                 </div>
