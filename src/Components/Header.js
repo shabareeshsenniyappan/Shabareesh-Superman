@@ -12,7 +12,7 @@ const Header = () => {
             </div>
 
             <div class="col-sm-3 d-flex align-content-center flex-wrap ">
-                <h1 style={{color:"#B80000"}}>Shabareesh</h1>
+                <h1 style={{color:"#B80000",align:"center"}}>Shabareesh</h1>
             </div>
             
         </div>
